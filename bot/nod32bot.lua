@@ -322,7 +322,7 @@ channel : @HACKANDEVILBOT
 sodu : @The_Lantern_74
 
 ]],
-    help_text 
+    help_text = [[
 Lantern Bot Commands list :
  
 1-banhammer list ^
