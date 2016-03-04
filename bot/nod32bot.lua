@@ -245,14 +245,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {142910418,179983320,24878907,173345972,126477037},--Sudo users
+	    sudo_users = {191772388},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
 channel : @HACKANDEVILBOT
-sodu : @Xx_shah_zaq_xX
+sodu : @The_Lantern_74
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -319,11 +319,11 @@ This command will send text to [group_id]
 
 channel : @HACKANDEVILBOT
 
-sodu : @Xx_shah_zaq_xX
+sodu : @The_Lantern_74
 
 ]],
-    help_text = [[
-EVILBOT Commands list :
+    help_text 
+Lantern Bot Commands list :
  
 1-banhammer list ^
  
@@ -522,7 +522,7 @@ you can use both "/" and "!"
 
 channel : @HACKANDEVILBOT
 
-sodu : @Xx_shah_zaq_xX
+sodu : @The_Lantern_74
 
 G00D LUCK ^_^
 ]]
